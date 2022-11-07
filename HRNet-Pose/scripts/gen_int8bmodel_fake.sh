@@ -1,0 +1,1 @@
+python3 -m ufw.cali.cali_model --model=./mmpose_256_192.onnx --input_shape="[1,3,256,192]" --test_iterations 1 --net_name test  --debug_cmd='use_fake_data_to_test' --cali_iterations 1
