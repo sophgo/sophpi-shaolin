@@ -14,6 +14,7 @@ This is a sample model project for Sophon SDK.
 - [√] [MiDas](./MiDas/) 
 - [√] [YOLO3D](./YOLO3D/)
 - [√] [FALSR](./FALSR/)
+- [√] [Face_recog](./Face_recog/)
 
 more models and samples will be added in the future.  
 
