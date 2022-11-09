@@ -13,6 +13,7 @@
 - [√] [MiDas](./MiDas/) 
 - [√] [YOLO3D](./YOLO3D/)
 - [√] [FALSR](./FALSR/)
+- [√] [Face_recog](./Face_recog/)
 
 更多的模型和示例将在未来添加。  
 
