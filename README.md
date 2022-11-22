@@ -9,12 +9,18 @@ This is a sample model project for Sophon SDK.
 
 
 ## 2. Content 
-
 - [√] [HRNet-Pose](./HRNet-Pose/) 
 - [√] [MiDas](./MiDas/) 
 - [√] [YOLO3D](./YOLO3D/)
 - [√] [FALSR](./FALSR/)
 - [√] [Face_recog](./Face_recog/)
+- [√] [ICNet](./ICNet/)
+- [√] [LeNet5](./LeNet5/)
+- [√] [LSTM](./LSTM/)
+- [√] [Mask_RCNN](./Mask_RCNN/)
+- [√] [ResNet](./ResNet/)
+- [√] [yolov5](./yolov5/)
+- [√] [reconNet_model](./reconNet_model/)
 
 more models and samples will be added in the future.  
 

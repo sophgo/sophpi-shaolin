@@ -1,0 +1,8 @@
+input:
+x
+[ 1 33 33 ]
+0
+output:
+recon_block/conv2d_5/LeakyRelu
+[ 1 33 33 1 ]
+0
