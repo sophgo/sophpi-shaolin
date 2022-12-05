@@ -21,6 +21,7 @@ This is a sample model project for Sophon SDK.
 - [√] [ResNet](./ResNet/)
 - [√] [yolov5](./yolov5/)
 - [√] [reconNet_model](./reconNet_model/)
+- [√] [AnimateGAN](./AnimateGAN/)
 
 more models and samples will be added in the future.  
 

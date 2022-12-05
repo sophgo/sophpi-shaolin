@@ -14,6 +14,14 @@
 - [√] [YOLO3D](./YOLO3D/)
 - [√] [FALSR](./FALSR/)
 - [√] [Face_recog](./Face_recog/)
+- [√] [ICNet](./ICNet/)
+- [√] [LeNet5](./LeNet5/)
+- [√] [LSTM](./LSTM/)
+- [√] [Mask_RCNN](./Mask_RCNN/)
+- [√] [ResNet](./ResNet/)
+- [√] [yolov5](./yolov5/)
+- [√] [reconNet_model](./reconNet_model/)
+- [√] [AnimateGAN](./AnimateGAN/)
 
 更多的模型和示例将在未来添加。  
 
