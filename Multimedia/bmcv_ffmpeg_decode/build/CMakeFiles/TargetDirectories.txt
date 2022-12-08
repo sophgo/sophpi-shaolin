@@ -1,0 +1,3 @@
+/workspace/mytest/test10/build/CMakeFiles/rebuild_cache.dir
+/workspace/mytest/test10/build/CMakeFiles/edit_cache.dir
+/workspace/mytest/test10/build/CMakeFiles/ffmpeg_decoder.dir
