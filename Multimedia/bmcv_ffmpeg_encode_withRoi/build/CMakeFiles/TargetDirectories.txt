@@ -1,0 +1,3 @@
+/workspace/mytest/test9/build/CMakeFiles/rebuild_cache.dir
+/workspace/mytest/test9/build/CMakeFiles/edit_cache.dir
+/workspace/mytest/test9/build/CMakeFiles/ffmpeg_encode_withRoi.dir
