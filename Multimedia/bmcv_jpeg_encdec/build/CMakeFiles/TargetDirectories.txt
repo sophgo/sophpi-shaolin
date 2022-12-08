@@ -1,0 +1,3 @@
+/workspace/mytest/test12/build/CMakeFiles/rebuild_cache.dir
+/workspace/mytest/test12/build/CMakeFiles/edit_cache.dir
+/workspace/mytest/test12/build/CMakeFiles/jpeg_EncDec.dir
